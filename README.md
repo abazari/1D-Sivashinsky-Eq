@@ -1,4 +1,4 @@
-# 1D-Sivashinsky-Eq
+# 1D-Sivashinsky
 
 Matlab ile for paper entitle 
 "Numerical study of Sivashinsky equation using a splitting scheme based on Crank-Nicolson method"
